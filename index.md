@@ -4,23 +4,25 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Linkedin Profile](https://www.linkedin.com/in/manirajmadishetty/).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# SDE @Microsoft
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Working on large-scale distributed systems, building products on Azure to analyze huge amounts of real-time networking data to figure out any erroneous devices in the Azure network with low latency.
 
-## Header 2
+# Software Engineer @ivy comptech
 
 > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Worked as part of responsible gaming technology which includes the
+> development of windows & web gaming systems. we built poker web client from scratch.
+> Successfully completed various critical projects on time with no compromise on quality and with zero production issues.
 
-### Header 3
+### Intern @OpenText
 
 ```js
 // Javascript code with syntax highlighting.
