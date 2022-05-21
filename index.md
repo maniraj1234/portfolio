@@ -12,17 +12,16 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # SDE @Microsoft
 
-Working on large-scale distributed systems, building products on Azure to analyze huge amounts of real-time networking data to figure out any erroneous devices in the Azure network with low latency.
+> Working on large-scale distributed systems, building products on Azure to analyze huge amounts of real-time networking data to figure out any erroneous devices in the Azure network with low latency.
 
 # Software Engineer @ivy comptech
 
-> This is a blockquote following a header.
->
 > Worked as part of responsible gaming technology which includes the
 > development of windows & web gaming systems. we built poker web client from scratch.
 > Successfully completed various critical projects on time with no compromise on quality and with zero production issues.
 
 ### Intern @OpenText
+
 
 ```js
 // Javascript code with syntax highlighting.
